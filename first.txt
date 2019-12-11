@@ -1,3 +1,6 @@
 electronica:
 prodigy
 neonlight
+pop:
+Michael Jackson
+Rihanna
